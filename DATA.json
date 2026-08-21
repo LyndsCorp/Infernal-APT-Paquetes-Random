@@ -1,0 +1,21 @@
+{
+  "name": "apt-random",
+  "version": "https://github.com/LyndsCorp/Infernal-APT-Paquetes-Random/main/VERSION",
+  "apt": [],
+  "pacman": [],
+  "dnf": [],
+  "casata": ["infernal"],
+  "pip": [],
+  "size": "331 B",
+  "description": "Un programa para imprimir paquetes random de APT y reírse pensando cómo sería un Debian de uso diario con todos esos paquetes.",
+  "usage": "Ejecutas apt-random y pones un número y ya.",
+
+  "project": "Lynds Utils",
+  "is_open_source": true,
+  "source_code": "https://github.com/LyndsCorp/Infernal-APT-Paquetes-Random",
+  "license": "The Unlicense",
+  "origin": "Lynds Corp.",
+  "developer": "David Baña Szymaniak",
+  "copyright_title": "David Baña Szymaniak",
+  "copyright_year": 2026
+}
