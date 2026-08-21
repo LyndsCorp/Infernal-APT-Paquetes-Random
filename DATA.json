@@ -1,6 +1,6 @@
 {
   "name": "apt-random",
-  "version": "https://github.com/LyndsCorp/Infernal-APT-Paquetes-Random/main/VERSION",
+  "version": "https://raw.githubusercontent.com/LyndsCorp/Verify-Packages/refs/heads/main/VERSION",
   "apt": [],
   "pacman": [],
   "dnf": [],
