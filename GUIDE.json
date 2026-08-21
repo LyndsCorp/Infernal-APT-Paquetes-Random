@@ -1,0 +1,9 @@
+{
+  "links": [
+    {
+      "file": "apt-random.inf",
+      "dest": "/usr/bin",
+      "name": "apt-random"
+    }
+  ]
+}
