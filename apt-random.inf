@@ -1,0 +1,4 @@
+#!/bin/infernal
+int cantidad = input("Dime la cantidad de paquetes aleatorios: ") 
+paquetes = apt-cache pkgnames | shuf -n $cantidad
+print(paquetes)
